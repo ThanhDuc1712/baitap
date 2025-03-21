@@ -1,1 +1,28 @@
+B.Câu hỏi
+Câu 1: - Output 1: *p3 = B, p3 = 0x5678;
+       - Output 2: *p3 = A, p3 = 0x1234;
+       - Output 3: *p1 = B, p1 = 0x1234;
 
+Câu 2: Đáp án: *p = 5;
+
+Câu 3:Giải thích lỗi sau:
+      char c = ‘C';
+      double *p = &c;
+Giải thích : Sai ở chỗ gán địa chỉ có kiểu char cho một con trỏ kiểu double 
+
+
+
+D.Câu hỏi Trắc nhiệm
+1) iv.	*p = &n;
+
+2) iii.	p1 = p2;
+
+3) ii.	Phép cộng trừ trên con trỏ kiểu int
+
+4) iii.	Tất cả các phép toán với các con trỏ ở cùng mảng (trong giới hạn mảng)
+
+5) iv.	Tất cả các phát biểu trên
+
+6) iv.	void bubble(int [], const int, bool (* (int, int)))
+
+7) iii.	2 2 3
